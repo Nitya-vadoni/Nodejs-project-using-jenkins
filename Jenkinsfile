@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     tools {
-        nodejs 'Node18'   // ⚠ replace with your exact tool name
+        nodejs 'nodejs2570'   // ⚠ replace with your exact tool name
     }
 
     stages {
